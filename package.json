@@ -82,7 +82,7 @@
     "pg": "6.1.5",
     "pg-large-object": "1.0.1",
     "pg-query-stream": "0.7.0",
-    "randexp": "0.4.1",
+    "randexp": "0.4.6",
     "redis": "0.10.3",
     "redis-dump": "0.1.10",
     "request": "2.34.0",
