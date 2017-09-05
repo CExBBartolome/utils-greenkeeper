@@ -115,6 +115,6 @@
     "yargs": "3.12.0"
   },
   "devDependencies": {
-    "nsp": "2.6.3"
+    "nsp": "2.8.0"
   }
 }
