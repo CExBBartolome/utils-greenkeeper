@@ -76,7 +76,7 @@
     "parambulator": "1.3.3",
     "passport-local": "1.0.0",
     "passport-saml": "0.9.1",
-    "passport-wsfed-saml2": "2.11.2",
+    "passport-wsfed-saml2": "3.0.9",
     "password-generator": "1.0.1",
     "patrun": "0.2.0",
     "pg": "6.1.5",
