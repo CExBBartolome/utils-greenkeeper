@@ -85,7 +85,7 @@
     "randexp": "0.4.1",
     "redis": "0.10.3",
     "redis-dump": "0.1.10",
-    "request": "2.34.0",
+    "request": "2.84.0",
     "segfault-handler": "1.0.0",
     "selectize": "0.12.4",
     "seneca-entity-validator": "0.3.1",
