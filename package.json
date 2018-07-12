@@ -87,7 +87,7 @@
     "redis-dump": "0.1.10",
     "request": "2.34.0",
     "segfault-handler": "1.0.0",
-    "selectize": "0.12.4",
+    "selectize": "0.12.6",
     "seneca-entity-validator": "0.3.1",
     "seneca-redis-cache": "0.2.0",
     "seneca-scheduler": "0.0.1",
