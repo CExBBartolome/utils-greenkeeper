@@ -98,7 +98,7 @@
     "simplesmtp": "0.3.35",
     "stream-buffers": "1.0.1",
     "streamifier": "0.1.0",
-    "style-loader": "0.13.1",
+    "style-loader": "0.23.0",
     "through2": "0.6.5",
     "ua-parser": "0.3.3",
     "url-loader": "0.5.7",
