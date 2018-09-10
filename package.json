@@ -92,7 +92,7 @@
     "seneca-redis-cache": "0.2.0",
     "seneca-scheduler": "0.0.1",
     "seneca-soap": "0.1.4",
-    "seneca-web": "0.1.4",
+    "seneca-web": "2.2.1",
     "serial": "0.0.8",
     "serve-favicon": "2.4.1",
     "simplesmtp": "0.3.35",
