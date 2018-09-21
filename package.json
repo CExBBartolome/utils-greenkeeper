@@ -35,7 +35,7 @@
     "dustjs-helpers": "1.7.3",
     "dustjs-linkedin": "2.7.3",
     "elasticsearch": "11.0.1",
-    "email-addresses": "2.0.2",
+    "email-addresses": "3.0.2",
     "exports-loader": "0.6.3",
     "express": "4.13.4",
     "extract-text-webpack-plugin": "1.0.1",
