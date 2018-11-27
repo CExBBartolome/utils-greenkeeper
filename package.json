@@ -61,7 +61,7 @@
     "list.js": "1.5.0",
     "locale": "0.0.20",
     "lodash": "3.10.1",
-    "mime": "1.2.11",
+    "mime": "2.4.0",
     "minimatch": "2.0.8",
     "moment": "2.11.2",
     "moment-timezone": "0.5.3",
