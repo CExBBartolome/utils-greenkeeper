@@ -44,7 +44,7 @@
     "ftps": "0.2.7",
     "google-caja": "0.0.2",
     "hmac-csrf": "0.1.1",
-    "html-to-text": "0.1.0",
+    "html-to-text": "5.1.1",
     "inputmask": "3.3.6",
     "joi": "6.4.3",
     "jquery": "1.11.3",
