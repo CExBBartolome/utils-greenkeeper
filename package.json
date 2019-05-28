@@ -54,7 +54,7 @@
     "jshint": "2.6.3",
     "jshint-stylish": "1.0.2",
     "json-loader": "0.5.4",
-    "knex": "0.12.6",
+    "knex": "0.17.0",
     "ladda": "1.0.0",
     "less": "2.7.1",
     "less-loader": "2.2.3",
