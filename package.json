@@ -56,7 +56,7 @@
     "json-loader": "0.5.4",
     "knex": "0.12.6",
     "ladda": "1.0.0",
-    "less": "2.7.1",
+    "less": "3.10.2",
     "less-loader": "2.2.3",
     "list.js": "1.5.0",
     "locale": "0.0.20",
