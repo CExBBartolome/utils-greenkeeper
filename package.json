@@ -81,7 +81,7 @@
     "patrun": "0.2.0",
     "pg": "6.1.5",
     "pg-large-object": "1.0.1",
-    "pg-query-stream": "0.7.0",
+    "pg-query-stream": "2.1.1",
     "randexp": "0.4.1",
     "redis": "0.10.3",
     "redis-dump": "0.1.10",
