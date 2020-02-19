@@ -75,7 +75,7 @@
     "object-tree": "0.2.5",
     "parambulator": "1.3.3",
     "passport-local": "1.0.0",
-    "passport-saml": "0.9.1",
+    "passport-saml": "1.3.3",
     "passport-wsfed-saml2": "2.11.2",
     "password-generator": "1.0.1",
     "patrun": "0.2.0",
