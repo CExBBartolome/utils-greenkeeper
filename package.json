@@ -101,7 +101,7 @@
     "style-loader": "0.13.1",
     "through2": "0.6.5",
     "ua-parser": "0.3.3",
-    "url-loader": "0.5.7",
+    "url-loader": "4.0.0",
     "url-parse": "1.1.1",
     "uuid": "1.4.1",
     "verdict.js": "0.1.2",
