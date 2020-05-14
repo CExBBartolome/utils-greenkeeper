@@ -51,7 +51,7 @@
     "jquery-ui": "1.12.1",
     "jquery.maskedinput": "^1.4.1",
     "jscs": "1.13.1",
-    "jshint": "2.6.3",
+    "jshint": "2.11.1",
     "jshint-stylish": "1.0.2",
     "json-loader": "0.5.4",
     "knex": "0.12.6",
